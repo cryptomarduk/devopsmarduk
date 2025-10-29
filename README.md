@@ -38,6 +38,6 @@
 ### 📣 Let's Connect
 
 <p align="left">
-  <a href="https://twitter.com/cryptomarduk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/mardukmoney" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:cryptomarduk@protonmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 </p>
