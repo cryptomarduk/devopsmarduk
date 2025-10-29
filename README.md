@@ -1,7 +1,7 @@
 # devopsmarduk
 
 <h1 align="center">Hi there, I'm Marduk</h1>
-<h3 align="center">Cloud DevOps Engineer | AI Enthusiast ☁️ | Automation Lover ⚙️</h3>
+<h3 align="center">Cloud DevOps Engineer | AI Enthusiast  | Automation Lover </h3>
 
 ### 🛠️ Languages and Tools
 
